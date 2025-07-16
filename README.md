@@ -1,7 +1,6 @@
 # DealMaster
 🎲 Advanced Deal or No Deal game in C++ with a CPU player, strategic advisor, and comprehensive statistics tracking. Features optimal decision-making algorithms and cross-platform compatibility.
 
-[![C++](https://img.shields.io/badge/C%2B%2B-11%2B-blue.svg)](https://en.cppreference.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)]()
 [![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)]()
